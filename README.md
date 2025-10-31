@@ -15,7 +15,7 @@
 
 ## About Me
 
-Backend developer, intersest in language learning — Japanese, Chinese, and Korean.  
+Backend developer with interest in language learning — Japanese, Chinese, and Korean.  
 
 ---
 
