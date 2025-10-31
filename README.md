@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate developer from Amsterdam</h3>
 <div align="center">
   <img width="480" src="https://github.com/user-attachments/assets/a3a18471-5f08-4108-8dd6-2ced8f78cc70">
 </div>
 
 ---
 
-## 🔗 Portfolio
+## Portfolio
 
 <p align="start">
   <a href="" target="_blank">
@@ -14,14 +13,13 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
-Developer with a passion for clean, intuitive software and language learning — English, Dutch, Japanese, Chinese, and Korean.  
-I enjoy building creative projects and exploring new technologies.
+Backend developer, intersest in language learning — Japanese, Chinese, and Korean.  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img width="48" alt="SAPS4HANA-DARK" src="https://github.com/user-attachments/assets/a36a65ed-2c7e-4822-b023-a1c0e6987fe7" />
@@ -33,7 +31,7 @@ I enjoy building creative projects and exploring new technologies.
 
 ---
 
-## 🌏 Languages I’m Learning
+## Language learning
 
 <p align="center">
   <img width="40" alt="English" src="https://unpkg.com/language-icons/icons/en.svg" />
@@ -44,8 +42,3 @@ I enjoy building creative projects and exploring new technologies.
 </p>
 
 ---
-
-## 🚀 Currently Working On
-
-- Building creative React projects
-- Improving my Korean and Mandarin
